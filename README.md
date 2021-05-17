@@ -29,11 +29,11 @@ This is a 3D render of the valley using LIDAR data, showing elevations and the n
 
 ## Photographs
 
-![Trail around the River Styx](https://live.staticflickr.com/65535/49183797783_7e57979428_h.jpg)     
-*Trail around the River Styx*
+![Practice wall route](images/practice-wall.JPG)
+*Climbing at Practice Wall*, Photo by Connor Schatz, 2020
 
-![Trail around the River Styx](https://live.staticflickr.com/65535/49183797783_7e57979428_h.jpg)     
-*Trail around the River Styx*
+![Ascentuality, Route at Stadium Wall](https://cdn2.apstatic.com/photos/climb/113903897_large_1512439749.jpg)     
+*Ascentuality, Stadium, Muir Valley*
 
 ## Sources and tools
 
